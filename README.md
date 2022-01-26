@@ -1,2 +1,2 @@
-# Python_for_Maya API
+# Python for Maya API
 用于存储使用过的Maya命令，基本是用Python写的
